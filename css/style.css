@@ -40,7 +40,7 @@ img {
       rgba(0, 0, 0, 0.8) 48%,
       rgba(0, 0, 0, 0.9) 100%
     ),
-    url(/img/hero-piano.webp);
+    url(../img/hero-piano.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -125,7 +125,7 @@ section img {
       rgba(0, 0, 0, 0.8) 48%,
       rgba(0, 0, 0, 0.9) 100%
     ),
-    url(/img/kontakt.webp);
+    url(../img/kontakt.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
